@@ -4,6 +4,7 @@ Using C# console application, input ten numbers and calculate the total sum.
 
 namespace SumNum
 {
+
     class Program
     {
         static void Main(string[] args)
